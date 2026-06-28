@@ -5,6 +5,8 @@ see webpage live:https://aakash-codex.github.io/sorapay/
 
 ## Features
 - **Dashboard & Spent Analytics**: Real-time spending charts and monthly tracking.
+<img width="1045" height="2048" alt="WhatsApp Image 2026-06-28 at 08 57 31" src="https://github.com/user-attachments/assets/e099b0e4-343d-443b-af59-e96ec99e5f1e" />
+
 - **Transfers (`/send` & `/receive`)**: Send funds or present a scanner-friendly QR code to receive payments.
 - **Pay (`/pay`)**: Simulated QR scanning viewfinder, barcode presenter, and points payment options.
 - **Transactions (`/transactions`)**: Searchable, filterable log with CSV export capability.
