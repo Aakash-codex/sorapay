@@ -12,7 +12,7 @@ https://aakash-codex.github.io/sorapay/
 
 リアルタイムの支出チャートと月ごとの利用状況を確認できます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/e099b0e4-343d-443b-af59-e96ec99e5f1e"
        alt="Dashboard"
        width="250"/>
@@ -24,7 +24,7 @@ https://aakash-codex.github.io/sorapay/
 
 送金機能に加え、QRコードを表示して簡単に支払いを受け取ることができます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/4033951d-ae9e-472d-8039-206eb120ad28"
        alt="Transfers"
        width="250"/>
