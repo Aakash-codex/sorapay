@@ -2,25 +2,71 @@
 
 SoraPay is a premium, fully featured digital wallet application built with Next.js 16, Tailwind CSS v4, and React 19. It offers a gorgeous glassmorphic design, smooth animations, and full localization .
 see webpage live:https://aakash-codex.github.io/sorapay/
-
 ## Features
-- **Dashboard & Spent Analytics**: Real-time spending charts and monthly tracking.
-<img width="1045" height="2048" alt="WhatsApp Image 2026-06-28 at 08 57 31" src="https://github.com/user-attachments/assets/e099b0e4-343d-443b-af59-e96ec99e5f1e" />
 
-- **Transfers (`/send` & `/receive`)**: Send funds or present a scanner-friendly QR code to receive payments.
-<img width="1043" height="2048" alt="WhatsApp Image 2026-06-28 at 08 57 31 (2)" src="https://github.com/user-attachments/assets/4033951d-ae9e-472d-8039-206eb120ad28" />
+### Dashboard & Spent Analytics
+Real-time spending charts and monthly tracking.
 
-- **Pay (`/pay`)**: Simulated QR scanning viewfinder, barcode presenter, and points payment options.
-<img width="1043" height="2048" alt="WhatsApp Image 2026-06-28 at 08 57 32" src="https://github.com/user-attachments/assets/93fb1ece-5f11-4981-b497-c8256aed9f19" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e099b0e4-343d-443b-af59-e96ec99e5f1e"
+       alt="Dashboard"
+       width="700"/>
+</p>
 
-- **Transactions (`/transactions`)**: Searchable, filterable log with CSV export capability.
-<img width="1043" height="2048" alt="WhatsApp Image 2026-06-28 at 08 57 32 (1)" src="https://github.com/user-attachments/assets/064a4a4a-eaaf-409c-bce6-bd0ebfeb2f03" />
+---
 
-- **Rewards (`/rewards`)**: Progress bar to higher member tiers, coupon claims, and cashier redemption barcode modals.
-- <img width="970" height="2048" alt="image" src="https://github.com/user-attachments/assets/e19b4893-0bf9-4b2d-94bd-0726a13a90c9" />
+### Transfers (`/send` & `/receive`)
+Send funds or present a scanner-friendly QR code to receive payments.
 
-- **Settings (`/settings`)**: Real-time theme toggles (Dark/Light mode), language switches, and profile editing.
-<img width="1045" height="2048" alt="image" src="https://github.com/user-attachments/assets/4fae65f6-363e-41ba-82e2-b785e795ee5e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4033951d-ae9e-472d-8039-206eb120ad28"
+       alt="Transfers"
+       width="700"/>
+</p>
+
+---
+
+### Pay (`/pay`)
+Simulated QR scanning viewfinder, barcode presenter, and points payment options.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93fb1ece-5f11-4981-b497-c8256aed9f19"
+       alt="Pay"
+       width="700"/>
+</p>
+
+---
+
+### Transactions (`/transactions`)
+Searchable, filterable transaction history with CSV export.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/064a4a4a-eaaf-409c-bce6-bd0ebfeb2f03"
+       alt="Transactions"
+       width="700"/>
+</p>
+
+---
+
+### Rewards (`/rewards`)
+Track your membership tier, claim coupons, and redeem rewards using barcode modals.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e19b4893-0bf9-4b2d-94bd-0726a13a90c9"
+       alt="Rewards"
+       width="700"/>
+</p>
+
+---
+
+### Settings (`/settings`)
+Switch themes, change languages, and edit your profile in real time.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fae65f6-363e-41ba-82e2-b785e795ee5e"
+       alt="Settings"
+       width="700"/>
+</p>
 
 ---
 
