@@ -22,7 +22,8 @@ Send funds or present a scanner-friendly QR code to receive payments.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4033951d-ae9e-472d-8039-206eb120ad28"
        alt="Transfers"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
@@ -33,7 +34,8 @@ Simulated QR scanning viewfinder, barcode presenter, and points payment options.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93fb1ece-5f11-4981-b497-c8256aed9f19"
        alt="Pay"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
@@ -44,7 +46,8 @@ Searchable, filterable transaction history with CSV export.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/064a4a4a-eaaf-409c-bce6-bd0ebfeb2f03"
        alt="Transactions"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
@@ -55,7 +58,8 @@ Track your membership tier, claim coupons, and redeem rewards using barcode moda
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e19b4893-0bf9-4b2d-94bd-0726a13a90c9"
        alt="Rewards"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
@@ -66,7 +70,8 @@ Switch themes, change languages, and edit your profile in real time.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4fae65f6-363e-41ba-82e2-b785e795ee5e"
        alt="Settings"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
