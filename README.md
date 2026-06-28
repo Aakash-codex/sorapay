@@ -10,7 +10,8 @@ Real-time spending charts and monthly tracking.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e099b0e4-343d-443b-af59-e96ec99e5f1e"
        alt="Dashboard"
-       width="700"/>
+       width="250"
+       width="250/>
 </p>
 
 ---
