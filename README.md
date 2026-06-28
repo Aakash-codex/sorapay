@@ -36,7 +36,7 @@ https://aakash-codex.github.io/sorapay/
 
 QRコードのスキャン画面、バーコード表示、ポイント支払いなどをシミュレーションできます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/93fb1ece-5f11-4981-b497-c8256aed9f19"
        alt="Pay"
        width="250"/>
@@ -48,7 +48,7 @@ QRコードのスキャン画面、バーコード表示、ポイント支払い
 
 取引履歴の検索・フィルター機能に加え、CSV形式でエクスポートできます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/064a4a4a-eaaf-409c-bce6-bd0ebfeb2f03"
        alt="Transactions"
        width="250"/>
@@ -60,7 +60,7 @@ QRコードのスキャン画面、バーコード表示、ポイント支払い
 
 会員ランクの進捗確認、クーポンの取得、バーコードを利用した特典の引き換えができます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/e19b4893-0bf9-4b2d-94bd-0726a13a90c9"
        alt="Rewards"
        width="250"/>
@@ -72,7 +72,7 @@ QRコードのスキャン画面、バーコード表示、ポイント支払い
 
 ダークモード・ライトモードの切り替え、言語変更、プロフィール編集をリアルタイムで行えます。
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/4fae65f6-363e-41ba-82e2-b785e795ee5e"
        alt="Settings"
        width="250"/>
